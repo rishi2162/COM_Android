@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">COM</string>
+    <string name="collaborative_order_management"><b>C</b>ollaborative <b>O</b>rder <b>M</b>anagement</string>
+    <string name="work_gets_done">Work Gets Done</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_password">Enter Password</string>
 </resources>
